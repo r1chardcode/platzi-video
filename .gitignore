@@ -1,5 +1,9 @@
-# Object file
-*.o
+#Folders
 
-# Ada Library Information
-*.ali
+.idea
+/idea
+carousel
+header
+z-
+
+desktop.ini
